@@ -6,7 +6,7 @@ Signargi adalah aplikasi penerjemah bahasa isyarat yang dikembangkan untuk memen
 ## 👥 Tim Pengembang
 - **Afrizal Putra Pratama**
 - **Gilang Sri Nayaka**
-- **M. Rizky Maulana**
+- **Rizky Maulana Saputra**
 
 ## ✨ Fitur Utama
 - Materi pembelajaran bahasa isyarat
