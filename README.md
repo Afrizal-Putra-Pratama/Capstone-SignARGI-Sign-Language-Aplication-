@@ -24,8 +24,8 @@ Signargi adalah aplikasi penerjemah bahasa isyarat yang dikembangkan untuk memen
 ## 📦 Instalasi
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/signargi.git
-   cd signargi
+   git clone https://github.com/Afrizal-Putra-Pratama/Capstone-SignARGI-Sign-Language-Aplication-.git
+   cd Capstone-SignARGI-Sign-Language-Aplication
    ```
 2. Buka proyek menggunakan Android Studio.
 3. Jalankan aplikasi melalui emulator atau perangkat fisik.
